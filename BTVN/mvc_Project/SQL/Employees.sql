@@ -17,5 +17,5 @@ CREATE TABLE IF NOT EXISTS employee (
 
 -- Optional: Insert some initial data (for testing)
 INSERT INTO employee (name, email, phone, address) VALUES
-('John Doe', 'john.doe@example.com', '1234567890', '123 Elm Street'),
-('Jane Smith', 'jane.smith@example.com', '0987654321', '456 Oak Avenue');
+('AnhTuan', 'tuan.doe@example.com', '1234567890', '123 noel'),
+('Messi', 'messi.lion@example.com', '0987654321', '456 Mianmi');
